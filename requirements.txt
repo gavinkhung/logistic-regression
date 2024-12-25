@@ -1,6 +1,7 @@
 autograd
 numpy
 matplotlib
+ipympl
 celluloid
 IPython
 SciencePlots
