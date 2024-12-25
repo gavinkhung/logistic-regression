@@ -1,0 +1,7 @@
+autograd
+numpy
+matplotlib
+celluloid
+IPython
+SciencePlots
+scikit-learn
